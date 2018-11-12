@@ -1,0 +1,20 @@
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll.config
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\bin\Debug\EntityFramework.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\bin\Debug\EntityFramework.xml
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
+C:\Users\Latitude E6520\Desktop\JOSELYN LEON\L3 2018\Nuevo repositori\rentas2\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll.config
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\bin\Debug\EntityFramework.dll
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\bin\Debug\EntityFramework.xml
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
+C:\Users\Cesar\Documents\proveedores\Rentas\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
